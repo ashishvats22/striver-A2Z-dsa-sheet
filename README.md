@@ -1,2 +1,2 @@
 # DSA-practice
-Started practising DSA from basicto advance questions
+Started practising DSA from basic to advance questions
